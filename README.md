@@ -26,7 +26,8 @@ I aspire to leave a positive impact through technology, making everyday life a l
 
 ## 💬 Connect With Me
 - Website: [kazimir.dev](https://kazimir.dev)
-
+- Telegram: [@kazimirdev](https://t.me/kazimirdev)
+- Email: [kazimirdev@tuta.io](mailto:kazimirdev@tuta.io)
 ---
 
 > “Keep your spirit up!”
